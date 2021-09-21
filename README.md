@@ -1,5 +1,15 @@
 # MachinLearningLab
 
+buscar en google colaborative 
+
+https://research.google.com/colaboratory/
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=inN8seMm7UI)
+
+
+
+
+
 ## Usar un dataset externo
 Vamos a utilizar un dataset con información sobre películas. El enlace de éste dataset está aquí:
 
